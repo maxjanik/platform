@@ -1,0 +1,10 @@
+.Board {
+  font-size: 30px;
+  align: left;
+  width: 300px;
+  background-color: rgb(255, 255, 128);
+}
+
+.R1 {
+  background-color: blue;
+}
